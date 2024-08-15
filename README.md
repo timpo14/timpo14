@@ -10,11 +10,7 @@
     <td>6 months</td>
   </tr>
   <tr>
-    <td>JavaScript</td>
+    <td>JavaScript, C, C++</td>
     <td>Learning...</td>
-  </tr>
-  <tr>
-    <td>C, C#, C++</td>
-    <td>I want to learn it.</td>
   </tr>
 </table>
